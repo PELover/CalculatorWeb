@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CnxDevSoft_Junior_Assignment_CalculatorWeb", "CnxDevSoft_Junior_Assignment_CalculatorWeb\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj", "{7B971EBC-D313-41B1-BAED-9723D49C5334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B971EBC-D313-41B1-BAED-9723D49C5334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B971EBC-D313-41B1-BAED-9723D49C5334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B971EBC-D313-41B1-BAED-9723D49C5334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B971EBC-D313-41B1-BAED-9723D49C5334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E17E0E4B-0450-4325-83C1-8AC0CC5FFC95}
+	EndGlobalSection
+EndGlobal

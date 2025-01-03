@@ -1,0 +1,48 @@
+﻿@model CnxDevSoft_Junior_Assignment_CalculatorWeb.Models.CalculatorModel;
+@{
+	ViewData["Title"] = "Calculator";
+}
+<body class="bg-dark bg-opacity-10">
+<form method="post" asp-action="Index" asp-controller="Calculator">
+    <div class="form-group">
+        <label asp-for="x" class="fs-5">X</label>
+        <input type="text" asp-for="x" class="form-control w-50">
+        <span asp-validation-for="x" class="text-danger"></span>
+    </div>
+    <br>
+    <div class="form-group">
+        <label asp-for="operators" class="fs-5">Operator</label>
+        <select asp-for="operators">
+            <option value="+">+</option>
+            <option value="-">-</option>
+            <option value="/">/</option>
+            <option value="*">*</option>
+            <option value="%">%</option>
+        </select>
+        <span asp-validation-for="operators" class="text-danger"></span>
+    </div>
+    <br>
+    <div class="form-group">
+        <label asp-for="y" class="fs-5">Y</label>
+        <input type="text" asp-for="y" class="form-control w-50">
+        <span asp-validation-for="y" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary my-2">Calculate</button>
+</form>
+    <br>
+    <div class="form-group">
+        <label asp-for="y" class="fs-5">Result</label>
+    <input type="text" value="@Model.result" class="form-control w-50" readonly>
+    </div>
+<br>
+<div class="form-group">
+    <label asp-for="y" class="fs-5">Result History</label>
+    <table class="table">
+        @foreach (var item in CalculatorModel.resulthistory)
+		{
+            <p><input type="text" value="ครั้งที่@Model.count คือ @item" class="form-control w-50" readonly></p>
+            Model.count++;
+        }
+    </table>
+</div>
+</body>
