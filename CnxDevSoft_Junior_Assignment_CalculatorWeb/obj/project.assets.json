@@ -1118,11 +1118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj",
+      "projectUniqueName": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj",
       "projectName": "CnxDevSoft_Junior_Assignment_CalculatorWeb",
-      "projectPath": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj",
+      "projectPath": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj",
       "packagesPath": "C:\\Users\\mothz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\obj\\",
+      "outputPath": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mothz\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2VPBbTbFldk=",
+  "dgSpecHash": "LPKyXffUzs0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj",
+  "projectFilePath": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mothz\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.2.0\\microsoft.aspnetcore.cryptography.internal.2.2.0.nupkg.sha512",
     "C:\\Users\\mothz\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.2.0\\microsoft.aspnetcore.dataprotection.2.2.0.nupkg.sha512",

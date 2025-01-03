@@ -9,39 +9,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CnxDevSoft_Junior_Assignment_CalculatorWeb
 build_property.RootNamespace = CnxDevSoft_Junior_Assignment_CalculatorWeb
-build_property.ProjectDir = C:\Users\mothz\source\repos\CnxDevSoft_Junior_Assignment_CalculatorWeb\CnxDevSoft_Junior_Assignment_CalculatorWeb\
+build_property.ProjectDir = C:\CalculatorWeb\CnxDevSoft_Junior_Assignment_CalculatorWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mothz\source\repos\CnxDevSoft_Junior_Assignment_CalculatorWeb\CnxDevSoft_Junior_Assignment_CalculatorWeb
+build_property.MSBuildProjectDirectory = C:\CalculatorWeb\CnxDevSoft_Junior_Assignment_CalculatorWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mothz/source/repos/CnxDevSoft_Junior_Assignment_CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/Calculator/Emtypage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYXRvclxFbXR5cGFnZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/mothz/source/repos/CnxDevSoft_Junior_Assignment_CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/Calculator/Index.cshtml]
+[C:/CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/Calculator/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYXRvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/CnxDevSoft_Junior_Assignment_CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/Shared/Error.cshtml]
+[C:/CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/CnxDevSoft_Junior_Assignment_CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/CnxDevSoft_Junior_Assignment_CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/_ViewImports.cshtml]
+[C:/CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/CnxDevSoft_Junior_Assignment_CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/_ViewStart.cshtml]
+[C:/CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mothz/source/repos/CnxDevSoft_Junior_Assignment_CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/Shared/_Layout.cshtml]
+[C:/CalculatorWeb/CnxDevSoft_Junior_Assignment_CalculatorWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2ec38rjg6f

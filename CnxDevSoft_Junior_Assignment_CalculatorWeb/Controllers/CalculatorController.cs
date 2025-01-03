@@ -6,7 +6,6 @@ namespace CnxDevSoft_Junior_Assignment_CalculatorWeb.Controllers
 {
     public class CalculatorController : Controller
     {
-        [HttpGet]
         public IActionResult Index()
         {
             return View(new CalculatorModel());
@@ -35,9 +34,5 @@ namespace CnxDevSoft_Junior_Assignment_CalculatorWeb.Controllers
             CalculatorModel.resulthistory.Add($"{model.x} {model.operators} {model.y} = {model.result}");
             return View(model);
         }
-        public IActionResult Emtypage()
-        {
-        return View();
-		}
     }
 }
