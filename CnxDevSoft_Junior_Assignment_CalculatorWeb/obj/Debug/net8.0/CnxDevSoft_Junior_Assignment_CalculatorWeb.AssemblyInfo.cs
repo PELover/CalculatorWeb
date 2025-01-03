@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CnxDevSoft_Junior_Assignment_CalculatorWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d7ea71dee01e5b47247ffcba3bf8d8ce19a7798")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a4447d7b33de745239f456305e05b7fe415303b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CnxDevSoft_Junior_Assignment_CalculatorWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CnxDevSoft_Junior_Assignment_CalculatorWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

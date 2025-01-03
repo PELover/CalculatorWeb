@@ -11,6 +11,7 @@ namespace CnxDevSoft_Junior_Assignment_CalculatorWeb.Controllers
             return View(new CalculatorModel());
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Index(CalculatorModel model)
         {
             switch (model.operators)
