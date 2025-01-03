@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\",
+  "WorkspaceRootPath": "C:\\CalculatorWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|c:\\users\\mothz\\source\\repos\\cnxdevsoft_junior_assignment_calculatorweb\\cnxdevsoft_junior_assignment_calculatorweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|c:\\calculatorweb\\cnxdevsoft_junior_assignment_calculatorweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|solutionrelative:cnxdevsoft_junior_assignment_calculatorweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|c:\\users\\mothz\\source\\repos\\cnxdevsoft_junior_assignment_calculatorweb\\cnxdevsoft_junior_assignment_calculatorweb\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|solutionrelative:cnxdevsoft_junior_assignment_calculatorweb\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|c:\\calculatorweb\\cnxdevsoft_junior_assignment_calculatorweb\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|solutionrelative:cnxdevsoft_junior_assignment_calculatorweb\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|c:\\users\\mothz\\source\\repos\\cnxdevsoft_junior_assignment_calculatorweb\\cnxdevsoft_junior_assignment_calculatorweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|solutionrelative:cnxdevsoft_junior_assignment_calculatorweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|c:\\users\\mothz\\source\\repos\\cnxdevsoft_junior_assignment_calculatorweb\\cnxdevsoft_junior_assignment_calculatorweb\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|c:\\calculatorweb\\cnxdevsoft_junior_assignment_calculatorweb\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|solutionrelative:cnxdevsoft_junior_assignment_calculatorweb\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|c:\\users\\mothz\\source\\repos\\cnxdevsoft_junior_assignment_calculatorweb\\cnxdevsoft_junior_assignment_calculatorweb\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|solutionrelative:cnxdevsoft_junior_assignment_calculatorweb\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|c:\\calculatorweb\\cnxdevsoft_junior_assignment_calculatorweb\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|solutionrelative:cnxdevsoft_junior_assignment_calculatorweb\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|c:\\calculatorweb\\cnxdevsoft_junior_assignment_calculatorweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B971EBC-D313-41B1-BAED-9723D49C5334}|CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb.csproj|solutionrelative:cnxdevsoft_junior_assignment_calculatorweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,48 +40,46 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-03T06:34:50.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Program.cs",
+              "DocumentMoniker": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Program.cs",
               "RelativeDocumentMoniker": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Program.cs",
+              "ToolTip": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Program.cs",
               "RelativeToolTip": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T05:34:51.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CalculatorModel.cs",
-              "DocumentMoniker": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Models\\CalculatorModel.cs",
-              "RelativeDocumentMoniker": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Models\\CalculatorModel.cs",
-              "ToolTip": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Models\\CalculatorModel.cs",
-              "RelativeToolTip": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Models\\CalculatorModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T14:22:52.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T05:34:51.495Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CalculatorModel.cs",
+              "DocumentMoniker": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Models\\CalculatorModel.cs",
+              "RelativeDocumentMoniker": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Models\\CalculatorModel.cs",
+              "ToolTip": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Models\\CalculatorModel.cs",
+              "RelativeToolTip": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Models\\CalculatorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:22:52.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Calculator\\Index.cshtml",
+              "DocumentMoniker": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Calculator\\Index.cshtml",
               "RelativeDocumentMoniker": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Calculator\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Calculator\\Index.cshtml",
               "RelativeToolTip": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Views\\Calculator\\Index.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -90,13 +88,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CalculatorController.cs",
-              "DocumentMoniker": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Controllers\\CalculatorController.cs",
+              "DocumentMoniker": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Controllers\\CalculatorController.cs",
               "RelativeDocumentMoniker": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\Users\\mothz\\source\\repos\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Controllers\\CalculatorController.cs",
-              "RelativeToolTip": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Controllers\\CalculatorController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAqwB0AAAAHAAAA",
+              "ToolTip": "C:\\CalculatorWeb\\CnxDevSoft_Junior_Assignment_CalculatorWeb\\Controllers\\CalculatorController.cs*",
+              "RelativeToolTip": "CnxDevSoft_Junior_Assignment_CalculatorWeb\\Controllers\\CalculatorController.cs*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T14:18:34.077Z",
               "EditorCaption": ""
